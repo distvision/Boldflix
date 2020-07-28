@@ -1,0 +1,161 @@
+{
+  "categorias": [
+    {
+      "titulo": "Front End",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#33004c",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+        },
+        {
+          "titulo": "Componentização com VanillaJS #AluraMais",
+          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+        },
+        {
+          "titulo": "The 2020 Frontend Developer Crash Course for Absolute Beginners",
+          "url": "https://www.youtube.com/watch?v=QA0XpGhiz5w"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }      
+      ]
+    },
+    {
+      "titulo": "Design grafico",
+      "cor": "#38006b",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Adobe Made An AWESOME Portfolio Builder (Adobe Portfolio Tutorial)",
+          "url": "https://www.youtube.com/watch?v=hUNdNgoT34A"
+        },
+        {
+          "titulo": "Fresh DESIGN FREEBIES You CANNOT Ignore!",
+          "url": "https://www.youtube.com/watch?v=4-E6-msFGGQ"
+        },
+        {
+          "titulo": "Grids in graphic design: what you should know before using it",
+          "url": "https://www.youtube.com/watch?v=TtNb8UFLaQo"
+        }, 
+        {
+          "titulo": "PERFECTLY Match Your Logo To A Font Like A Pro",
+          "url": "https://www.youtube.com/watch?v=YnV67BTLgX4"
+        }
+      ]
+    },
+    {
+      "titulo": "UI / UX",
+      "cor": "#230034",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "O que é e o que faz quem trabalha com UX? User Experience e Usabilidade #HipstersPontoTech",
+          "url": "https://www.youtube.com/watch?v=FJhMCi07T4A"
+        },
+        {
+          "titulo": "Top 5 UI/UX Design [Trends] Tips by Cuberto (2020)",
+          "url": "https://www.youtube.com/watch?v=gq9w14ag0ls"
+        },
+        {
+          "titulo": "Figma Tutorial - A Free UI Design/Prototyping Tool. It's awesome.",
+          "url": "https://www.youtube.com/watch?v=3q3FV65ZrUs"
+        },
+        {
+          "titulo": "Adobe XD Multiple Interactions Prototype Tutorial",
+          "url": "https://www.youtube.com/watch?v=JE-EsLhmlkU"
+        }
+      ]
+    },
+    {
+      "titulo": "Edição de videos e animações",
+      "cor": "#7f0023",
+      "videos": [
+        {
+          "titulo": "Walk Cycle in After Effects & Photoshop | Motion Design Workflow",
+          "url": "https://www.youtube.com/watch?v=0cqmJjS6tfo"
+        },
+        {
+          "titulo": "12 Most Used CUTS & Transitions in Hollywood",
+          "url": "https://www.youtube.com/watch?v=VVTZNg-IgGI"
+        },
+        {
+          "titulo": "Disintegration Effect | (After Effects Tutorial)",
+          "url": "https://www.youtube.com/watch?v=Z_ch9txQYyg"
+        },
+        {
+          "titulo": "7 MUSIC VIDEO EFFECTS that will make your video look DOPE! - Premiere Pro",
+          "url": "https://www.youtube.com/watch?v=mOpA_ZgOJhc"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#560000",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Top 20 Upcoming Games of 2020 [Second Half]",
+          "url": "https://www.youtube.com/watch?v=CQKvhoe15M4"
+        },
+        {
+          "titulo": "Top 10 Best Video Games of 2020 (So Far)",
+          "url": "https://www.youtube.com/watch?v=XKlDp37Ydks"
+        },
+        {
+          "titulo": "Where Did All The VALORANT Hype Go?",
+          "url": "https://www.youtube.com/watch?v=nL0LsdtBNy4"
+        },
+        {
+          "titulo": "STEWIE2K HITS INSANE 1 TAP!! THIS SNEAKY PLAY WAS JUST BEAUTIFUL!! - Twitch Recap CSGO",
+          "url": "https://www.youtube.com/watch?v=Gxkt21eB2zY"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#00363a",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
