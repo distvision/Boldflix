@@ -2,19 +2,17 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
-
-import { BrowserRouter, Switch, Route  } from 'react-router-dom';
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from './Pages/Home';
 import CadastroVideo from './Pages/Cadastro/Video';
 import CadastroCategoria from './Pages/Cadastro/Categoria';
 
 // desafio master blaster
-const Pagina404 = () => (<div>Página 404</div>)
-
+const Pagina404 = () => (<div>Página 404</div>);
 
 ReactDOM.render(
   <BrowserRouter>
-    <Switch>      
+    <Switch>
       <Route path="/" component={Home} exact />
       <Route path="/cadastro/video" component={CadastroVideo} />
       <Route path="/cadastro/categoria" component={CadastroCategoria} />
@@ -22,6 +20,5 @@ ReactDOM.render(
     </Switch>
   </BrowserRouter>,
 
- 
-  document.getElementById('root')
+  document.getElementById('root'),
 );

@@ -1,0 +1,45 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Front End",
+      "descricao": "uma categoria",
+      "cor": "#58186d"
+    },
+
+    {
+      "id": 2,
+      "nome": "Design gráfico",
+      "descricao": "uma categoria",
+      "cor": "#58186d"
+    },
+
+    {
+      "id": 3,
+      "nome": "UI/UX",
+      "descricao": "uma categoria",
+      "cor": "#58186d"
+    },
+
+    {
+      "id": 4,
+      "nome": "Edição de vídeos e animação",
+      "descricao": "uma categoria",
+      "cor": "#58186d"
+    },
+
+    {
+      "id": 5,
+      "nome": "Games",
+      "descricao": "uma categoria",
+      "cor": "#58186d"
+    },
+
+    {
+      "id": 6,
+      "nome": "Aprendizado",
+      "descricao": "uma categoria",
+      "cor": "#58186d"
+    }
+  ]
+}
